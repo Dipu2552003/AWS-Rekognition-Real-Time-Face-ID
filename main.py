@@ -440,8 +440,7 @@ def upload_image():
     
      document.getElementById('registerBtn').addEventListener('click', function() {
         window.location.href = "{{ url_for('registration') }}";
-    });
-    
+    });  
 </script>
 </body>
 </html>
