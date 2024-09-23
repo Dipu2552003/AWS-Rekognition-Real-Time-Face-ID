@@ -1,0 +1,9 @@
+# Virtual environment
+env/
+venv/
+ENV/
+VENV/
+env.bak/
+venv.bak/
+
+uploads/
